@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>联络互动</string>
+		<key>number</key>
+		<string>002280</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>科大讯飞</string>
+		<key>number</key>
+		<string>002230</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>游久游戏</string>
+		<key>number</key>
+		<string>600652</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>中国重工</string>
+		<key>number</key>
+		<string>601989</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>中国石油</string>
+		<key>number</key>
+		<string>601857</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>平安银行</string>
+		<key>number</key>
+		<string>000001</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>航天动力</string>
+		<key>number</key>
+		<string>600343</string>
+	</dict>
+</array>
+</plist>
