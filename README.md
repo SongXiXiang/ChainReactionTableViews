@@ -1,2 +1,3 @@
 # ChainReactionTableViews
 make two tableViews chain reaction
+任意一个tableview上下滚动时实现两个tableview的联动, 右边的tableview可以独立横向移动
